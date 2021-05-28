@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/home_hihi"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+
+        />
+    <item
+        android:id="@+id/san_hihi"
+        android:title="Sân"
+        android:icon="@drawable/pitch"
+        />
+    <item
+        android:id="@+id/news_hihi"
+        android:title="Tin Tức"
+        android:icon="@drawable/ic_baseline_map_24"
+
+        />
+    <item
+        android:id="@+id/profile_hihi"
+        android:title="Tài khoản"
+        android:icon="@drawable/profile"
+
+        />
+
+</menu>
